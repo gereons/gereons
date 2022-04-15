@@ -1,9 +1,6 @@
 ### Hi there 👋 ###  
 
-I'm a lead mobile developer at [snabble](https://snabble.io), working on our SDK and apps.
-
-Looking for a job? Check out https://snabble.io/en/jobs :)
-
+Between jobs right now, watch this space.
 <!--
 **gereons/gereons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
