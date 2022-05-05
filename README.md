@@ -1,6 +1,6 @@
 ### Hi there 👋 ###  
 
-Between jobs right now, watch this space.
+I'm one of the iOS/Swift developers at [onvista](https://onvista.de) media GmbH in beautiful Cologne, Germany.
 <!--
 **gereons/gereons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
